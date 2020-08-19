@@ -1,4 +1,4 @@
-# Howdy :wave: I'm Exr0n.
+# Howdy :wave: I'm Exr0n
 
 I want to build intelligent systems. I'm obsessed with efficiency, generality, and maintainability--and I'm currently focusing on honing my skills and returning to projects... someday. I'm interested in ML, algorithms, design paradigms, concurrency, and low level optimizations.
 
