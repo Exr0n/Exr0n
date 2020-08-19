@@ -3,9 +3,9 @@
 **I want to build intelligent systems. I'm obsessed with efficiency, generality, and maintainability--and I'm currently focusing on honing my skills and returning to projects... someday. I'm interested in ML, algorithms, design paradigms, concurrency, and low level optimizations.**
 
 Some of my projects include:
-- [Algorithms](http://tinyurl.com/yd4m55e): it will see the light someday...
-- [Condution](condution.com): a holistic task management system
-- [TeamsCode](teamscode.com): inspire students to solve problems using CS
+- [Algorithms](https://tinyurl.com/yd4m55e): it will see the light someday...
+- [Condution](https://condution.com): a holistic task management system
+- [TeamsCode](https://teamscode.com): inspire students to solve problems using CS
 - [Simple Neural Net](exr0nprojects/neural_net_cpp): a peek behind the fundamentals of current machine learning
 
 I'm excited to (eventually) work on:
