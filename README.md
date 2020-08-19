@@ -16,12 +16,12 @@ You can find all my latest endevours at [github/Exr0nProjects](https://github.co
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api?username=exr0n&show_icons=true&theme=dark&count_private=true" />
+    <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=exr0n&show_icons=true&theme=dark&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exr0n&theme=dark&layout=compact&count_private=true" />
+    <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exr0n&theme=dark&layout=compact&count_private=true" />
 </a>
-
+<br><br><br><br><br><br><br><br>
 
 And just for funsies:
 
