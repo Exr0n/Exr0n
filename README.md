@@ -26,10 +26,10 @@ You can find all my latest endevours at [github/Exr0nProjects](https://github.co
 And just for funsies:
 - 🌱 I’m currently learning about algorithms and ML
 - 👯 I’m looking to collaborate on anything cool, really
-- :thinking face: I’m looking for help with taking breaks and workflow hacks
-- :speech balloon: Ask me about: DvorakGang, (N)VimGang
+- :thinking_face: I’m looking for help with taking breaks and workflow hacks
+- :speech_balloon: Ask me about: DvorakGang, (N)VimGang
 - :anchor: I'm after tips on: mountain biking, spinning pens, graphic design
-- :mailbox with no mail: How to reach me: mail at exr0n dot com
+- :mailbox_with_no_mail: How to reach me: mail at exr0n dot com
 - :smiley: Pronouns: he/him
 - :penguin: Fun fact: stuffed animals are the best
 
