@@ -5,6 +5,7 @@
 Some of my projects include:
 - [Algorithms](http://tinyurl.com/yd4m55e): it will see the light someday...
 - [Condution](condution.com): a holistic task management system
+- [TeamsCode](teamscode.com): inspire students to solve problems using CS
 - [Simple Neural Net](exr0nprojects/neural_net_cpp): a peek behind the fundamentals of current machine learning
 
 I'm excited to (eventually) work on:
