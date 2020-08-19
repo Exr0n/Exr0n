@@ -12,7 +12,7 @@ I'm excited to (eventually) work on:
 - [Pitaya](exr0nprojects/pitaya): a Toggl inpsired time management platform with better tags and better performance
 - [Annote](exr0nprojects/annote): an efficient, modal note taking/mind mapping workflow with inline drawings and persistent connections
 
-You can find all my latest endeavour at [github/Exr0nProjects](https://github.com/exr0nprojects)
+You can find all my latest endeavours at [github/Exr0nProjects](https://github.com/exr0nprojects)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
