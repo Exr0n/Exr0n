@@ -4,14 +4,15 @@
 
 Some of my projects include:
 - [Algorithms](https://tinyurl.com/yd4m55e): it will see the light someday...
-- [Condution](https://condution.com): a holistic task management system
 - [TeamsCode](https://teamscode.com): inspire students to solve problems using CS
+- [Condution](https://condution.com): a holistic task management system
 - [Simple Neural Net](exr0nprojects/neural_net_cpp): a peek behind the fundamentals of current machine learning
 
 I'm excited to (eventually) work on:
 - [Touchboard](exr0nprojects/touchboard): type and gesture from your trackpad seamlessly
 - [Pitaya](exr0nprojects/pitaya): a Toggl inpsired time management platform with better tags and better performance
 - [Annote](exr0nprojects/annote): an efficient, modal note taking/mind mapping workflow with inline drawings and persistent connections
+- [Generalized iStats.widget](exr0nprojects/istats.widget): a generalization of the iStats.widget for Ubersicht with colors and an API
 
 You can find all my latest endeavours at [github/Exr0nProjects](https://github.com/exr0nprojects)
 
