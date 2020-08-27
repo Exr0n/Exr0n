@@ -26,7 +26,7 @@ You can find all my latest endeavours at [github/Exr0nProjects](https://github.c
 
 <br><br><br><br><br><br><br><br><br><br>
 And just for funsies:
-- :seedling:  I’m currently Org Mode, learning about algorithms and ML
+- :seedling:  I’m currently learning about Org Mode, algorithms and ML
 - :busts_in_silhouette:  I’m looking to collaborate on anything cool, really
 - :thinking:  I’m looking for help with taking breaks and workflow hacks
 - :speech_balloon:  Ask me about:  DvorakGang, (N)VimGang
