@@ -4,6 +4,7 @@
 
 Some of my projects include:
 - [Algorithms](https://tinyurl.com/yd4m55e): it will see the light someday...
+- [Turnup](exr0nprojects/turnup): quantified self-esq data tracking and visualization scripts
 - [TeamsCode](https://teamscode.com): inspire students to solve problems using CS
 - [Condution](https://condution.com): a holistic task management system
 - [Simple Neural Net](exr0nprojects/neural_net_cpp): a peek behind the fundamentals of current machine learning
