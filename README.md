@@ -17,16 +17,10 @@ I'm excited to (eventually) work on:
 
 You can find all my latest endeavours at [github/Exr0nProjects](https://github.com/exr0nprojects)
 
----
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=exr0n&show_icons=true&theme=dark&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exr0n&theme=dark&layout=compact&count_private=true" />
-</a>
-
----
+<div width="100%">
+<img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=exr0n&show_icons=true&theme=dark&count_private=true" />
+<img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exr0n&theme=dark&layout=compact&count_private=true" />
+</div>
 
 And just for funsies:
 - :seedling:  I’m currently learning about Org Mode, algorithms and ML
