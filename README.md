@@ -18,10 +18,10 @@ I'm excited to (eventually) work on:
 
 You can find all my latest endeavours at [github/Exr0nProjects](https://github.com/exr0nprojects)
 
-<div width="100%">
+<div width="100%"><a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=exr0n&show_icons=true&theme=dark&count_private=true" />
 <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exr0n&theme=dark&layout=compact&count_private=true" />
-</div>
+</a></div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=exr0n&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
